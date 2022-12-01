@@ -37,28 +37,31 @@ export const presenters = [
   },
 ];
 
-const referencePosition = document.querySelector('.program');
+const referencePosition = document.querySelector('.classes');
 
 export const createSpeakerStructureHTML = () => {
   referencePosition.insertAdjacentHTML('afterend',
     `<section class="presenter" id="featuredpresenters">
-     <h2 class="presenter__title">Presenters</h2><hr>
-     <ul class="speakers-container"></ul></section>`);
+     <h2 class="presenter_title">Presenters</h2><hr>
+     <ul class="speakers-container"></ul></section>`
+  );
 };
 
 export const createSpeakerCard = () => {
   presenters.forEach((presenter) => {
     const speakersGrid = document.querySelector('.speakers-container');
 
-    speakersGrid.insertAdjacentHTML('beforeend',
+    speakersGrid.insertAdjacentHTML(
+      'beforeend',
       `<li class="card">
-         <div class="presenter__image">
+         <div class="presenter_image">
          <img src="${presenter.img}" alt="presenter photo"></div>
-        <div class="presenter__dsc">
+        <div class="presenter_dsc">
         <h3>${presenter.name}</h3>
         <p class="dsc-1">${presenter.profession}</p>
         <p class="dsc-2">${presenter.description}</p>
         </div>
-        </li>`);
+        </li>`
+    );
   });
 };

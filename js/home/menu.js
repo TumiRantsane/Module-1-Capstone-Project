@@ -7,3 +7,16 @@ export const openCloseMenu = () => {
   hambIcon.classList.toggle('fa-bars');
   hambIcon.classList.toggle('fa-times');
 };
+
+function show() {
+  menu.style.display = 'flex';
+  menu.style.top = '0';
+}
+
+function close() {
+  menu.style.top = '-100vh';
+  menu.style.display = 'none';
+}
+
+menu.addEventListener('click', show);
+menu.addEventListener('click', close);
