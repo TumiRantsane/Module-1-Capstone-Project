@@ -59,7 +59,11 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Personal Portfolio Project] <a name="about-project"></a>
 
+<<<<<<< HEAD
 > I have built a website for a wed design course using HTML, CSS and JavaScript.
+=======
+> I have built a web design course website using HTML, CSS and JavaScript.
+>>>>>>> 92d06ed3cc368d731c726c14dd85a321b021efff
 
 **[your_project__name]** is a...
 
@@ -97,8 +101,13 @@ After you're finished please remove all the comments and instructions!
 > Describe between 1-3 key features of the application.
 
 - **[Mobile Menu]**
+<<<<<<< HEAD
 - **[Home Section]**
 - **[About Section]**
+=======
+- **[Animated Buttons]**
+- **[Responsive form]**
+>>>>>>> 92d06ed3cc368d731c726c14dd85a321b021efff
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +117,11 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
+<<<<<<< HEAD
 - [Live Demo Link](https:)
+=======
+- [Live Demo Link]()
+>>>>>>> 92d06ed3cc368d731c726c14dd85a321b021efff
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,3 +260,4 @@ This project is [MIT](./LICENSE) licensed.
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+>>>>>>> 92d06ed3cc368d731c726c14dd85a321b021efff
