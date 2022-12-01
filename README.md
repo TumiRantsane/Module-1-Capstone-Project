@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Personal Portfolio Project] <a name="about-project"></a>
 
-> I have built a portfolio using HTML, CSS and JavaScript uing a design from a Figma template.
+> I have built a website for a wed design course using HTML, CSS and JavaScript.
 
 **[your_project__name]** is a...
 
@@ -97,8 +97,8 @@ After you're finished please remove all the comments and instructions!
 > Describe between 1-3 key features of the application.
 
 - **[Mobile Menu]**
-- **[Animated Buttons]**
-- **[Responsive form]**
+- **[Home Section]**
+- **[About Section]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,7 +108,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://tumirantsane.github.io/Portfolio-/)
+- [Live Demo Link](https:)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +139,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-**``git clone https://github.com/TumiRantsane/Portfolio-.git``**
+**``git clone https://github.com/TumiRantsane/Web-Design.git``**
 
 
 <!--
@@ -203,7 +203,7 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@TumiRnatsane](https://github.com/TumiRantsane)
+- GitHub: [@TumiRantsane](https://github.com/TumiRantsane)
 - Twitter: [@irantsane](https://twitter.com/irantsane)
 - LinkedIn: [Itumeleng Rantsane](https://www.linkedin.com/in/itumeleng-rantsane-552a44244/)
 
@@ -237,7 +237,7 @@ If you like this project, give a star.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse, coding partners and standup team.
+I would like to thank Microverse.
 
 
 ## 📝 License <a name="license"></a>
