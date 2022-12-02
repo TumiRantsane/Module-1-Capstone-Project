@@ -44,8 +44,7 @@ export const createSpeakerStructureHTML = () => {
     `<section class="presenter" id="featuredpresenters">
      <h2 class="presenter_title">Presenters</h2><hr>
      <ul class="speakers-container"></ul></section>`,
- 
-     );
+  );
 };
 
 export const createSpeakerCard = () => {
