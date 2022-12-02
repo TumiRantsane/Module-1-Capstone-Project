@@ -43,8 +43,9 @@ export const createSpeakerStructureHTML = () => {
   referencePosition.insertAdjacentHTML('afterend',
     `<section class="presenter" id="featuredpresenters">
      <h2 class="presenter_title">Presenters</h2><hr>
-     <ul class="speakers-container"></ul></section>`
-  );
+     <ul class="speakers-container"></ul></section>`,
+ 
+     );
 };
 
 export const createSpeakerCard = () => {
@@ -61,7 +62,7 @@ export const createSpeakerCard = () => {
         <p class="dsc-1">${presenter.profession}</p>
         <p class="dsc-2">${presenter.description}</p>
         </div>
-        </li>`
+        </li>`,
     );
   });
 };
