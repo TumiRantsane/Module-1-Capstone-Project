@@ -213,7 +213,7 @@ header nav .hamb {
   padding: 12px;
 }
 
-.presenter ul li .presenter_image img {
+.presenter ul li .presenter_img img {
   width: 100px;
   height: 100px;
 }
@@ -348,7 +348,7 @@ footer .footer_p {
     padding: 24px;
   }
 
-  .presenter ul li .presenter_image img {
+  .presenter ul li .presenter_img img {
     width: 120px;
     height: 120px;
   }
@@ -449,7 +449,7 @@ footer .footer_p {
     padding: 32px;
   }
 
-  .presenter ul li .presenter_image img {
+  .presenter ul li .presenter_img img {
     width: 150px;
     height: 150px;
   }
@@ -556,7 +556,7 @@ footer .footer_p {
     padding: 32px;
   }
 
-  .presenter ul li .presenter_image img {
+  .presenter ul li .presenter_img img {
     width: 180px;
     height: 180px;
   }

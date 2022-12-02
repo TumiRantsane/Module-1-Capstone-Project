@@ -140,7 +140,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-**``git clone https://github.com/TumiRantsane/Web-Design.git``**
+**``git clone https://github.com/TumiRantsane/Module-1-Capstone_Project.git``**
 
 
 <!--
