@@ -57,15 +57,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Personal Portfolio Project] <a name="about-project"></a>
+# 📖 [Web Design Online Course] <a name="about-project"></a>
 
-<<<<<<< HEAD
 > I have built a website for a wed design course using HTML, CSS and JavaScript.
-=======
-> I have built a web design course website using HTML, CSS and JavaScript.
->>>>>>> 92d06ed3cc368d731c726c14dd85a321b021efff
 
-**[your_project__name]** is a...
+**[your_project__name]** is a web design course.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -101,12 +97,8 @@ After you're finished please remove all the comments and instructions!
 > Describe between 1-3 key features of the application.
 
 - **[Mobile Menu]**
-<<<<<<< HEAD
 - **[Home Section]**
 - **[About Section]**
-=======
-- **[Animated Buttons]**
-- **[Responsive form]**
 >>>>>>> 92d06ed3cc368d731c726c14dd85a321b021efff
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -116,12 +108,8 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
-
-<<<<<<< HEAD
-- [Live Demo Link](https:)
+- [Live Demo Link](https://tumirantsane.github.io/Module-1-Capstone-Project/home.html)
 =======
-- [Live Demo Link]()
->>>>>>> 92d06ed3cc368d731c726c14dd85a321b021efff
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +140,7 @@ Example command:
 
 Clone this repository to your desired folder:
 
-**``git clone https://github.com/TumiRantsane/Web-Design.git``**
+**``git clone https://github.com/TumiRantsane/Module-1-Capstone_Project.git``**
 
 
 <!--
@@ -250,7 +238,9 @@ If you like this project, give a star.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse.
+Cindy Shin, Web Designer.
+
+https://www.behance.net/gallery/29845175/CC-Global-Summit-2015
 
 
 ## 📝 License <a name="license"></a>
