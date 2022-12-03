@@ -43,7 +43,6 @@ hr {
 
 header {
   background: #fff;
-  padding: 0px;
   box-shadow: 0 1px 10px 3px #a7a5a5;
   position: sticky;
   top: 0;
@@ -613,9 +612,6 @@ footer .footer_p {
     text-align: center;
     margin-top: 5%;
     margin-bottom: 40px;
-  }
-
-  .prog {
     align-items: center;
     text-align: center;
   }
@@ -663,7 +659,6 @@ footer .footer_p {
 }
 
 @media (max-width: 992px) {
-
   .social {
     display: none;
   }
