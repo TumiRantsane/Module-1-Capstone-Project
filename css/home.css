@@ -310,8 +310,8 @@ footer {
 
 @media screen and (min-width: 768px) {
   footer {
-    background-color: #1b1b1b;
-    color: white;
+    background-color: #fff;
+    color: #fff;
   }
 
   .footer_p {
@@ -333,7 +333,7 @@ footer .footer_p {
   font-size: 1rem;
   font-weight: 500;
   line-height: 24px;
-  color: #fff;
+  color: #1b1b1b;
 }
 
 @media (min-width: 480px) {
