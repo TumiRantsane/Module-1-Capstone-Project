@@ -506,13 +506,9 @@ footer .footer_p {
 }
 
 @media (min-width: 768px) {
-  header {
-    padding: 0px;
-  }
   .social ul {
     background-color: #272a31;
     text-align: right;
-    padding-top: 2px;
     list-style: none;
     margin: 0;
     width: 100%;
@@ -525,8 +521,15 @@ footer .footer_p {
   .social ul li {
     font-family: var(--font-family);
     color: white;
-    padding-right: 0px 198px 0px 209px;
     gap: 232px;
+  }
+
+  .classes ul li {
+    padding: 12px;
+  }
+
+  .presenter ul li {
+    padding: 32px;
   }
 
   .social li:hover {
@@ -558,10 +561,6 @@ footer .footer_p {
     gap: 24px;
   }
 
-  .classes ul li {
-    padding: 12px;
-  }
-
   .classes ul li img {
     width: 50px;
     height: 50px;
@@ -583,10 +582,6 @@ footer .footer_p {
 
   .presenter ul {
     margin: 64px 0;
-  }
-
-  .presenter ul li {
-    padding: 32px;
   }
 
   .presenter ul li .presenter_img img {
@@ -612,8 +607,6 @@ footer .footer_p {
     text-align: center;
     margin-top: 5%;
     margin-bottom: 40px;
-    align-items: center;
-    text-align: center;
   }
 
   .program {
@@ -662,6 +655,7 @@ footer .footer_p {
   .social {
     display: none;
   }
+
   header nav ul {
     visibility: hidden;
     opacity: 0;
@@ -730,7 +724,6 @@ footer .footer_p {
     align-items: center;
     justify-content: flex-end;
     gap: 48px;
-    padding: 8 rem; 
   }
 
   header nav ul li a {
@@ -738,7 +731,7 @@ footer .footer_p {
     font-size: 1.2rem;
     font-weight: 500;
     line-height: 24px;
-    padding: 8 rem 0;
+    padding: 8rem 0;
     color: #41434b;
     transition: color 0.5s, font-size 0.5s;
     left: -100%;
@@ -807,13 +800,9 @@ footer .footer_p {
 
 @media (min-width: 1400px) {
   header {
-  height: 75px;
-  width: 1440px;
-  left: 0px;
-  top: 30px;
-  border-radius: 0px;
-  padding: 0px 198px 0px 209px;
-
+    height: 75px;
+    width: 1440px;
+    top: 30px;
   }
 
   .head {
