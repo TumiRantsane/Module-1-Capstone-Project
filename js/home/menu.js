@@ -1,5 +1,5 @@
 export const hambIcon = document.querySelector('.hamb');
-export const menu = document.querySelector('.menu');
+export const menu = document.querySelector('.openmenu');
 export const menuLinks = [...document.querySelectorAll('header nav ul li a')];
 
 export const openCloseMenu = () => {
