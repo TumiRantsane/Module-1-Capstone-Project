@@ -57,7 +57,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Personal Portfolio Project] <a name="about-project"></a>
+# 📖 [Web Design Online Course] <a name="about-project"></a>
 
 > I have built a website for a wed design course using HTML, CSS and JavaScript.
 
@@ -238,7 +238,9 @@ If you like this project, give a star.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse.
+Cindy Shin, Web Designer.
+
+https://www.behance.net/gallery/29845175/CC-Global-Summit-2015
 
 
 ## 📝 License <a name="license"></a>
