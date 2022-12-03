@@ -40,13 +40,26 @@ hr {
   font-weight: normal;
   font-style: normal;
 }
+.head-1 {
+  padding-left: 130px;
+  box-sizing: border-box;
+}
 
+@media screen and (max-width:900px){
+  .head-1 {
+    padding-left: 30px;
+    box-sizing: border-box;
+  }
+  
+}
+
+hr {
+  width: 30px;
+}
 header {
   background: #fff;
-  box-shadow: 0 1px 10px 3px #a7a5a5;
   position: sticky;
-  top: 0;
-  z-index: 50;
+  height: auto;
 }
 
 header nav a img {
@@ -112,6 +125,10 @@ header nav .hamb {
   padding: 12px;
   border: 3px solid #fff;
   background: #f9f9f9;
+}
+
+.pogra{
+  color: #d3d3d3;
 }
 
 .headdsc p {
@@ -205,12 +222,24 @@ header nav .hamb {
 
 .presenter ul {
   margin: 24px 0;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: auto auto;
   align-items: center;
   justify-content: center;
   gap: 12px;
   list-style: none;
+}
+
+@media screen and (max-width:900px){
+  .presenter ul {
+    margin: 24px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    list-style: none;
+  }
 }
 
 .presenter ul li {
@@ -224,8 +253,8 @@ header nav .hamb {
 }
 
 .presenter ul li .presenter_img img {
-  width: 100px;
-  height: 100px;
+  width: 90px;
+  height: 90px;
 }
 
 .presenter ul li .presenter_dsc h3 {
@@ -282,6 +311,19 @@ footer {
   text-align: center;
 }
 
+@media screen and (min-width:768px){
+  footer {
+    background-color:#1b1b1b;
+    color: white;
+  }
+  .footer_p{
+    color:rgb(0, 0, 0);
+  }
+ 
+}
+.hd{
+  padding-right: 130px;
+}
 footer .footer_img {
   width: 50%;
   margin-bottom: 12px;
@@ -292,7 +334,7 @@ footer .footer_p {
   font-size: 1rem;
   font-weight: 500;
   line-height: 24px;
-  color: #272a31;
+  color: #ffffff;
 }
 
 @media (min-width: 480px) {
@@ -505,6 +547,19 @@ footer .footer_p {
   }
 }
 
+.header-1{
+  padding-right: 130px;
+  padding-left: 130px;
+}
+
+@media screen and(max-width:900px){
+  .header-1{
+    padding-right: 30px;
+    padding-left: 130px;
+    border: 1px solid blue;
+  }
+}
+
 @media (min-width: 768px) {
   .social ul {
     background-color: #272a31;
@@ -614,6 +669,7 @@ footer .footer_p {
     font-size: 16px;
     color: white;
     margin-top: 5%;
+    text-decoration: underline;
   }
 
   .sponsor {
